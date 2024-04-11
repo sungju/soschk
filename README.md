@@ -1,0 +1,2 @@
+# soschk
+sosreport checking
